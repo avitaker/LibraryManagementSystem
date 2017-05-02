@@ -2,7 +2,7 @@
 Simple library management system with authorized users and borrow/return capability
 
 ## Purpose
-This was the solution for the final project in a university computer science course. 
+This was my solution for the final project in a university computer science course. 
 
 ## Installation
 Download and compile Java files.
