@@ -1,0 +1,90 @@
+15
+Pattern Recognition
+William Gibson
+02/01/2005
+0425198685
+No
+
+Machine Learning
+Ethem Alpaydin
+12/04/2009
+026201243X
+No
+
+Great Expectations
+Charles Dickens
+10/01/1861
+0141439564
+No
+
+Catch-22
+Joseph Heller
+11/10/1961
+1439197687
+No
+
+Beyond Humanity?: The Ethics of Biomedical Enhancement
+Allen E. Buchanan
+04/08/2011
+0199671494
+No
+
+North and South
+Elizabeth Gaskell
+01/31/1855
+0192831941
+No
+
+Harry Potter and the Sorcerer's Stone
+J. K. Rowling
+09/01/1998
+0590353403
+No
+
+The 4-Percent Universe: Dark Matter, Dark Energy, And The Race To Discover The Rest Of Reality
+Richard Panek
+10/01/2011
+0618982442
+No
+
+Sacred Pain: Hurting the Body for the Sake of the Soul
+Ariel Glucklich
+10/18/2001
+0195132548
+No
+
+The Secrets of Alchemy
+Lawrence M. Principe
+01/01/2012
+022610379X
+No
+
+The Middle East: A Brief History of the Last 2,000 Years
+Bernard Lewis
+08/07/1997
+0684832801
+No
+
+The Book of Basketball
+Bill Simmons
+10/27/2009
+0345520106
+No
+
+The Beach
+Alex Garland
+10/14/1996
+1573220485
+No
+
+The Science of Interstellar
+Kip Thorne
+11/07/2014
+0393351378
+Yes
+
+Fifty Shades of Grey
+E. L. James
+05/25/2011
+0099579936
+No
